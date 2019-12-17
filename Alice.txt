@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. We changed this file.
 Added a new line. Some extra text.
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Modified
+>>>>>>> 490a50900a6fa968192b66fba345392c10c1ba39
